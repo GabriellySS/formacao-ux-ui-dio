@@ -4,7 +4,7 @@ Este repositório contém os desafios realizados durante o curso de UX/UI Design
 
 ## 📂 Estrutura do Repositório
 
-- `/desafio-01-wireframe-onepage`: Wireframe de média fidelidade para uma página de produto.
+- [`/desafio-01-wireframe-onepage`](https://github.com/GabriellySS/formacao-ux-ui-dio/tree/main/desafio-01-wireframe-onepage): Wireframe de média fidelidade para uma página de produto.
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
