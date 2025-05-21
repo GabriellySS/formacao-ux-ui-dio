@@ -17,26 +17,15 @@ Este desafio consiste na criação de um **wireframe de média fidelidade** para
 - Git e GitHub: versionamento e exposição do projeto.
 - Markdown: documentação.
 
-## 💡 Decisões de Design
-
-- Foco na clareza e simplicidade da navegação.
-- Organização hierárquica das informações baseada na Lei de Proximidade.
-- Utilização de elementos visuais que reforçam a comunicação direta com o usuário.
-- Aplicação das heurísticas de Nielsen para garantir a usabilidade.
-
 ## 📁 Estrutura da Pasta
 
 - `/images`: capturas de tela do wireframe.
-- `wireframe.fig`: arquivo fonte do Figma.
+- `wireframe-dio-challenge.fig`: arquivo fonte do Figma.
 - `README.md`: documentação do desafio.
-
-## ✅ Status do Desafio
-
-✔️ Desafio concluído e documentado conforme as orientações.
 
 ## 🔗 Link para Visualização do Protótipo
 
-- [Acesse o protótipo público no Figma](https://www.figma.com/design/zCEF8o6vsU72ibNLxZgtgF/wireframe-dio-challenge?node-id=1-2&t=mWtk4dvrnEdssKh9-0)  
+- [Acesse o protótipo público no Figma](https://www.figma.com/design/zCEF8o6vsU72ibNLxZgtgF/wireframe-dio-challenge?node-id=0-1&t=NTAabOQNgXCKcjhJ-1)  
 
 ## 🚀 Como Clonar Esta Pasta
 
